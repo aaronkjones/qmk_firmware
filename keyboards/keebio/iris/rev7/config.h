@@ -85,3 +85,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #        define RGB_DISABLE_WHEN_USB_SUSPENDED
 #        define RGB_MATRIX_KEYPRESSES
 //#    endif
+#        define SPLIT_LAYER_STATE_ENABLE
+#        define SPLIT_LED_STATE_ENABLE
